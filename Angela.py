@@ -1,4 +1,3 @@
-
 import discord
 import random as r
 from discord.ext import commands
